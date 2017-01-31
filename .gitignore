@@ -1,0 +1,6 @@
+.DS_Store
+input
+output
+log
+*.pyc
+*.swp
